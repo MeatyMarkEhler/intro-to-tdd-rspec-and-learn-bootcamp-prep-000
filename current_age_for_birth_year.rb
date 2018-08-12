@@ -1,2 +1,6 @@
-age_of_person = 19
-current_age_for_birth_year()
+age_of_person =
+birth_year = 
+def current_age_for_birth_year(year){
+  return 2003 - year
+}
+  
